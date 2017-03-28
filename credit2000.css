@@ -1,0 +1,67 @@
+/* 
+    Created on : 12/01/2016, 07:26:53
+    Author     : eranbaazov
+*/
+
+/*iframe {
+    height: 400px !important;
+    width: 600px !important; 
+}
+
+.bodyDiv{
+     height: 400px !important;
+    width: 100% !important; 
+}*/
+
+input {
+    background-color: #FFF;
+    background-image: none;
+    border: 1px solid #E5E6E7;
+    border-radius: 1px;
+    color: inherit;
+    display: block;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 100%;
+    padding: 0px;
+    height: 18px;
+    font-size: 12px;
+    line-height: 1.5;
+    color: black;
+}
+
+table > tbody > tr > td{
+    display: table;
+    color: #1AB394 !important;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+#lbPrice {
+    
+    color: #1c84c6;
+    font-size: 17px;
+    
+}
+
+/*#btOk{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: #1AB394;
+    border-color: #1AB394;
+    color: #FFF;
+}*/
